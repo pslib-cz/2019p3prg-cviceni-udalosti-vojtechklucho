@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 namespace WaterDetector
 {
     class Program
-    {
+    { 
         static void Main(string[] args)
         {
             Random r = new Random();
